@@ -1,45 +1,45 @@
-# 👩🏻‍💻 Larissa Souza
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&bgcolor=0d1117"/>
 
-**`Desenvolvedora FullStack`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C77DFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+Larissa+Souza;I+study+Analysis+and+Systems+Development;Future+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Me chamo Larissa e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou em fase inicial na área de tecnologia, com foco em desenvolvimento Full Stack. Tenho interesse em aprender cada vez mais sobre programação, boas práticas e criação de projetos que resolvam problemas reais. Estou em constante evolução e buscando crescer profissionalmente através de estudos e projetos práticos.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lssouza-dev&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lssouza-dev&layout=compact&hide_border=true&title_color=8A2BE2&text_color=C77DFF&bg_color=0d1117" />
+</div>
+
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lssouza-dev&bg_color=0d1117&color=C77DFF&line=8A2BE2&point=C77DFF&area=true&hide_border=true)](https://github.com/lssouza-dev)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lssouza-dev&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/larisouza106/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div> 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Main skills
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=C77DFF&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF&labelColor=0D1117)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=C77DFF&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+
+---
+
+### 🚀 Studying at the moment
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer&bgcolor=0d1117"/>
