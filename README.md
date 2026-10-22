@@ -15,7 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/larisouza106/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white">
+
 </a>
 </div> 
 
